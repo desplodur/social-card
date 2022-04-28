@@ -25,3 +25,8 @@ body {
   border: 0px;
   background-color: transparent;
 }
+
+.username {
+  color: rgb(179, 179, 179);
+  font-size: 14px;
+}
